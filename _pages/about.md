@@ -16,7 +16,7 @@ I obtained a BSc in Physics and a MSs in Physics of Complex Systems from Univers
 
 I develop methods to investigate energy transport in complex wave media, as well as the formation of extreme coherent events in these systems, with particular attention to problems of physical oceanography. Although my research has a theoretical focus, drawing from concepts from statistical physics, turbulence, probability, optimization, and related fields, I combine theory with numerical simulations and first-hand analysis of observations. I work in close collaboration with experimental groups (e.g. [Kurt Polzin](https://web.whoi.edu/polzin/), [Miguel Onorato](http://personalpages.to.infn.it/~onorato/Home.html), [Arnaud Le Boyer](http://www.mod.ucsd.edu/arnaud-le-boyer)) and, as much as possible, my efforts spark from and are tested against analysis of real-world data.
 
+[CV](https://giovannidematteis.github.io/files/CV-dematteis-short.pdf)
 
-For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
