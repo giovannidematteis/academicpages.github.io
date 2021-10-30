@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Postdoc Research Associate in the group of Prof. [Yuri Lvov](http://wave.math.rpi.edu/) at the Rensselaer Polytechnic Institute, Department of Mathematical Sciences, under the funding of ONR grant N00014-643 17-1-2852.
 
-Check out our exciting newest results on the energy fluxes in the oceanic internal-wave band, recently published in the [Journal of Fluid Mechanics](https://arxiv.org/pdf/2010.06717.pdf) and under review in the [Journal of Physical Oceanography](https://arxiv.org/pdf/2106.02572.pdf).
+Check out our exciting latest results on the energy fluxes in the oceanic internal-wave band, recently published in the [Journal of Fluid Mechanics](https://arxiv.org/pdf/2010.06717.pdf) and under review in the [Journal of Physical Oceanography](https://arxiv.org/pdf/2106.02572.pdf).
 
 I obtained a BSc in Physics and a MSs in Physics of Complex Systems from Universita' di Torino (Italy) in 2013 and 2015 and a PhD in Applied Mathematics jointly from Politecnico di Torino and Universita' di Torino in 2019, under the supervision of Prof. Lamberto Rondoni and Prof. Eric Vanden-Eijnden. During my PhD, I spent 18 months at the Courant Institute of Mathematical Sciences, New York University, as a visiting PhD student.
 
