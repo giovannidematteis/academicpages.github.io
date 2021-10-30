@@ -82,7 +82,7 @@ analytics:
 author:
   name             : #"Giovanni Dematteis"
   avatar           : "/images/bio-photo.jpg"
-  bio              : "<ul><li>Physical Oceanography</li><li>Wave Turbulence</li><li>Extreme Events</li></ul><br><br>My research aims at understanding and quantifying energy transfer and localization pathways in complex wave media, with a focus on problems of physical oceanography"
+  bio              : "<ul><li>Physical Oceanography</li><li>Wave Turbulence</li><li>Extreme Events</li></ul>My research aims at understanding and quantifying energy transfer and localization pathways in complex wave media, with a focus on problems of physical oceanography"
   location         : "Troy, New York"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
