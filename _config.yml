@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Giovanni Dematteis"
-  avatar           : "bio-photo.PNG"
+  avatar           : "images/bio-photo.png"
   bio              : "Physical Oceanography<br>Wave Turbulence<br>Extreme Events"
   location         : "Troy, New York"
   employer         :
