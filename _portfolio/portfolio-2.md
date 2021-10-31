@@ -6,5 +6,5 @@ known as phonons. I have conducted recent investigations that are shedding new l
 properties of low-dimensional particle lattices. <br/><img src='/images/image2.png'>"
 collection: portfolio
 ---
-Collaborators: 
+Collaborators: <br><br>
 Project publications: 
