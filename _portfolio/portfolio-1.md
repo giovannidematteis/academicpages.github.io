@@ -6,5 +6,5 @@ quantification of the downscale energy flux in the internal wave field, with the
 the finescale parameterizations that are used to include the effects of internal waves in the Global Circulation Models. <br/><img src='/images/image1.png'>"
 collection: portfolio
 ---
-Collaborators: 
+Collaborators: <br><br>
 Project publications: 
