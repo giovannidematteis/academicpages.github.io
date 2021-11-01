@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Giovanni Dematteis"
 title_separator          : "-"
-name                     : &name #"Giovanni Dematteis"
+name                     : #&name #"Giovanni Dematteis"
 description              : &description "Postdoc Research Associate"
 url                      : https://giovannidematteis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
