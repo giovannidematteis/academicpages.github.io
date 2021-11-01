@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Giovanni Dematteis"
 title_separator          : "-"
 name                     : &name "Giovanni Dematteis"
-description              : &description "personal description"
+description              : &description "Postdoc Research Associate"
 url                      : https://giovannidematteis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : #"Giovanni Dematteis"
+  name             : "Giovanni Dematteis"
   avatar           : "bio-photo.PNG"
   bio              : "My research aims at quantifying the energy transfer and localization pathways in systems of random waves, with a focus on problems of Physical Oceanography <ul><li>Physical Oceanography</li><li>Wave Turbulence</li><li>Statistical Physics</li><li>Extreme Events</li></ul>"
   location         : "Troy, New York"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.it/citations?user=PCZn6AUAAAAJ&hl=en&oi=ao"
-  email            :
+  email            : dematg@rpi.edu - giovannidematteis@gmail.com
   researchgate     : "https://www.researchgate.net/profile/Giovanni-Dematteis"
   uri              :
   bitbucket        :
