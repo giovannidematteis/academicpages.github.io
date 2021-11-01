@@ -7,4 +7,4 @@ the finescale parameterizations that are used to include the effects of internal
 collection: portfolio
 ---
 Collaborators: [Yuri Lvov](http://wave.math.rpi.edu/), [Kurt Polzin](https://web.whoi.edu/polzin/)<br><br>
-Project publications: [Downscale energy fluxes in oceanic internal waves](/publication/2020-05-01-downscale-energy-fluxes-internal-waves), [Oceanic Ultraviolet Catastrophe](/publication/preprint2)
+Project publications: [Downscale energy fluxes in oceanic internal waves (JFM 2021)](/publication/2020-05-01-downscale-energy-fluxes-internal-waves), [Oceanic Ultraviolet Catastrophe (preprint 2021)](/publication/preprint2)
