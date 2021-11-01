@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "Ergodicity and response relations"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2013-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2013). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/ergodicity-response-relations
+excerpt: ''
+date: 2016-05-04
+venue: 'Comput. Methods Sci. Technol.'
+paperurl: 'https://cmst.eu/wp-content/uploads/files/10.12921_cmst.2016.22.02.002_Dematteis.pdf'
+citation: 'Rondoni, L., and G. Dematteis. "Physical ergodicity and exact response relations for low-dimensional maps." Comput. Methods Sci. Technol 22 (2016): 71.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://cmst.eu/wp-content/uploads/files/10.12921_cmst.2016.22.02.002_Dematteis.pdf)
 
-Recommended citation: Your Name, You. (2013). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Rondoni, L., and G. Dematteis. "Physical ergodicity and exact response relations for low-dimensional maps." Comput. Methods Sci. Technol 22 (2016): 71.
