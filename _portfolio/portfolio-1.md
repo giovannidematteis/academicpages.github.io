@@ -6,5 +6,5 @@ analysis of the downscale energy flux in the internal wave field, with the aim o
 the finescale parameterizations that are used to include the effects of internal waves in the Global Circulation Models. <br/><img src='/images/image1.png' style='width:700px;'>"
 collection: portfolio
 ---
-Collaborators: [Yuri Lvov](http://wave.math.rpi.edu/), [Kurt Polzin](https://web.whoi.edu/polzin/)<br><br>
+Collaborators: [Yuri Lvov](http://wave.math.rpi.edu/), [Kurt Polzin](https://web.whoi.edu/polzin/), [Arnaud Le Boyer](http://www.mod.ucsd.edu/arnaud-le-boyer)<br><br>
 Project publications: [Downscale energy fluxes in oceanic internal waves (JFM 2021)](/publication/2020-05-01-downscale-energy-fluxes-internal-waves), [Oceanic Ultraviolet Catastrophe (preprint 2021)](/publication/preprint2)
