@@ -6,5 +6,5 @@ energy transfers between different scales in wave systems, via nonlinear resonan
 using diagrammatic techniques, obtaining original results on the preservation of chaos for four-wave systems. <br/><img src='/images/image3.PNG' style='width:500px;'>"
 collection: portfolio
 ---
-Collaborators: <br><br>
+Collaborators: [Sergio Chibbaro](http://www.lmm.jussieu.fr/~chibbaro/Home.html), [Lamberto Rondoni](http://calvino.polito.it/~rondoni/), [Christophe Josserand](http://www.off-ladhyx.polytechnique.fr/people/josserand/), [Miguel Onorato](http://personalpages.to.infn.it/~onorato/Home.html)<br><br>
 Project publications: 
