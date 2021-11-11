@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoc Research Associate at the Rensselaer Polytechnic Institute (RPI), Department of Mathematical Sciences. My position is funded by ONR grant N00014-643 17-1-2852, under the supervision of Prof. [Yuri Lvov](http://wave.math.rpi.edu/) (RPI) and Dr. [Kurt Polzin](https://web.whoi.edu/polzin/) (Woods Hole Oceanographic Institution).
+I am a Postdoc Research Associate at the Rensselaer Polytechnic Institute (RPI), Department of Mathematical Sciences. My position is funded by ONR grant N00014-17-1-2852, under the supervision of Prof. [Yuri Lvov](http://wave.math.rpi.edu/) (RPI) and Dr. [Kurt Polzin](https://web.whoi.edu/polzin/) (Woods Hole Oceanographic Institution).
 
 Check out our exciting latest results on the energy fluxes in the oceanic internal-wave band, published in the [Journal of Fluid Mechanics](https://arxiv.org/pdf/2010.06717.pdf) and under review in the [Journal of Physical Oceanography](https://arxiv.org/pdf/2106.02572.pdf)!
 
