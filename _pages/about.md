@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Postdoc Research Associate at the Rensselaer Polytechnic Institute (RPI), Department of Mathematical Sciences. My position is funded by ONR grant N00014-17-1-2852, under the supervision of Prof. [Yuri Lvov](http://wave.math.rpi.edu/) (RPI) and Dr. [Kurt Polzin](https://web.whoi.edu/polzin/) (Woods Hole Oceanographic Institution).
 
-Check out our exciting latest results on the energy fluxes in the oceanic internal-wave band, published in the [Journal of Physical Oceanography](https://journals.ametsoc.org/view/journals/phoc/52/4/JPO-D-21-0121.1.xml), and on the formalization of energy fluxes in wave turbulence, under review in the [Journal of Fluid Mechanics](https://arxiv.org/pdf/2205.12899.pdf).
+Check out my exciting latest results on the energy fluxes in the oceanic internal-wave band, published in the [Journal of Physical Oceanography](https://journals.ametsoc.org/view/journals/phoc/52/4/JPO-D-21-0121.1.xml), and on the formalization of energy fluxes in wave turbulence, under review in the [Journal of Fluid Mechanics](https://arxiv.org/pdf/2205.12899.pdf).
 
 I obtained a BSc in Physics and a MSs in Physics of Complex Systems from Universita' di Torino (Italy) in 2013 and 2015 and a PhD in Applied Mathematics jointly from Politecnico di Torino and Universita' di Torino in 2019, under the supervision of Prof. [Lamberto Rondoni](http://calvino.polito.it/~rondoni/) and Prof. [Eric Vanden-Eijnden](https://wp.nyu.edu/courantinstituteofmathematicalsciences-eve2/). During my PhD, I spent 18 months at the Courant Institute of Mathematical Sciences, New York University, as a visiting PhD student.
 
